@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/
+
+stable_diffusion_apple/
+.ipynb_checkpoints/

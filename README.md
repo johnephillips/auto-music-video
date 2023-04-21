@@ -4,7 +4,7 @@ auto-music-video uses generative AI tools to automatically generate music videos
 
 <h2 align="center"> Demo: "Mr. Blue Sky" by Electric Light Orchestra, with art from DALL·E </h2>
 
-https://user-images.githubusercontent.com/11326277/233508620-811f688a-7e18-4dff-9e85-1ce556ec02f1.mp4
+https://user-images.githubusercontent.com/11326277/233519311-91ccd61c-a033-4b93-9d52-7070e6ac13b7.mov
 
 The particular Stable Diffusion model is a coreml model optimized for running on low memory apple devices
 (i.e. images can be generated quickly on an 8gb M1 macbook air).

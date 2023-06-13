@@ -114,7 +114,7 @@ torchvision==0.15.1
 tornado==6.3.2
 tqdm==4.65.0
 traitlets==5.9.0
-transformers==4.27.4
+transformers==4.30.0
 typing_extensions==4.5.0
 uri-template==1.2.0
 urllib3==1.26.15
